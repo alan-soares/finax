@@ -16,13 +16,12 @@
       <v-btn icon>
         <v-icon>mdi-magnify</v-icon>
       </v-btn>
-		<v-btn icon>
+      <v-btn icon>
        <v-icon>attach_money</v-icon>
       </v-btn>
-	<v-btn icon>
-       	<v-icon> mdi-account</v-icon>
-      	</v-btn>
-
+      <v-btn icon>
+       <v-icon> mdi-account</v-icon>
+      </v-btn>
       <v-menu
         left
         bottom
